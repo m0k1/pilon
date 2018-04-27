@@ -126,7 +126,7 @@ Use ifconfig if you're not sure what's your ip.
 
 Follow this guide to get your wifi dongle working and bridging:
 
-http://www.daveconroy.com/turn-your-raspberry-pi-into-a-wifi-hotspot-with-edimax-nano-usb-ew-7811un-rtl8188cus-chipset/
+https://daveconroy.com/how-to/turn-your-raspberry-pi-into-a-wifi-hotspot-with-edimax-nano-usb-ew-7811un-rtl8188cus-chipset/
 
 I suggest to skip the first part (except for passwd) and start from installing hostapd and bridge-utils
 
